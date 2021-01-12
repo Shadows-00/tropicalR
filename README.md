@@ -1,0 +1,2 @@
+# tropicalR
+TROPİCAL SUNUCU REGİSTERY
